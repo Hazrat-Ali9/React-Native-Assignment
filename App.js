@@ -3,6 +3,9 @@ import { Image, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Icon from "react-native-vector-icons/Entypo";
 
+// Error Fixed
+
+
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
